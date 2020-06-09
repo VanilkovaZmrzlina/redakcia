@@ -1,6 +1,6 @@
 Autor: René Lensík
-Nazov: Imhotep druhy
-Datum: 5.25.2020
+Nazov: Imhotep
+Datum: 4.20.2020
 ----
 Kde bolo tambolo
 Bol to Imhotep.
@@ -10,5 +10,6 @@ Imhotep stretol Osirisa.
 Už dlho nepil, bol smadny.
 Tam urobil štátny prevrat.
 ----
+
 
 
