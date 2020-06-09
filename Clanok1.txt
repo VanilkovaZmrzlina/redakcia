@@ -2,9 +2,9 @@ Autor: René Lensík
 Nazov: Imhotep
 Datum: 4.20.2020
 ----
-
-
-
+Kde bolo tambolo
+Bol to Imhotep.
+Hej, on ho zabil.
 ----
 
 
